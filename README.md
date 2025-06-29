@@ -19,6 +19,3 @@
 
 <h2>Languages and tools</h2>
 <p>• JavaScript • Linux • MongoDB • MySQL • Python • Rust</p>
-
-<h2>Filosofía</h2>
-<p>Creo en el código como arte: limpio, intencional y siempre con espacio para mejorar.</p>
