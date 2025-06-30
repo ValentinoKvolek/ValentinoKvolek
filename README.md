@@ -17,5 +17,5 @@
 <h2>En exploración</h2>
 <p>Recientemente me he sumergido en el aprendizaje de Rust y sus aplicaciones en sistemas embebidos.</p>
 
-<h2>Languajes y Herramientas</h2>
+<h2>Lenguajes y Herramientas</h2>
 <p>• JavaScript • Linux • MongoDB • MySQL • Python • Rust</p>
